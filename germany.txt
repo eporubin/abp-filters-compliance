@@ -109,4 +109,4 @@ onmeda.de#@#.cmpboxWelcomeGDPR
 ! 
 insider.com#@#.osano-cm-window
 ! FD-4270
-@@||scripts.finanzen.net/js/cmp/cmp.min.js
+@@||scripts.finanzen.net/js/cmp/cmp.min.js$domain=finanzen.net
